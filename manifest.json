@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "BUB",
+  "description": "Add youtube songs to the cloud service you use with a click of a button.",
+  "version": "1.0",
+  "browser_action": {
+    "default_icon": "icon.png"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}

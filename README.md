@@ -1,4 +1,4 @@
-# Youtube To Cloud
+# BUB
 Add youtube songs to the cloud service you use with a click of a button.
 
 ## Spec
@@ -13,4 +13,4 @@ Since user interface is of top priority. It should be easy to just select a song
 
 
 ## Repository Name
-The repository name right now is quite boring, I am open for suggestions.
+The repository name has a full form, which I am not ready to share yet.

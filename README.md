@@ -1,5 +1,5 @@
 # Youtube To Cloud
-Add youtube songs to the cloud service you use.
+Add youtube songs to the cloud service you use with a click of a button.
 
 ## Spec
 The goal of this project is to make it possible and easy to get the music you listen on youtube available on your cloud service as audio files, so it is accessible to you on your multiple devices connected to the cloud. 

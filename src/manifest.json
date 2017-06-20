@@ -1,0 +1,19 @@
+{
+  "name": "BUB",
+  "version": "1.0",
+  "description": "Add youtube songs to the cloud service you use with a click of a button.",
+  "options_page": "options.html",
+  "background": {
+    "page": "background.html"
+  },
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "manifest_version": 2,
+  "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+  "permissions": [
+    "activeTab",
+    "tabs"
+  ]
+}

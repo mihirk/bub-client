@@ -27,7 +27,8 @@ var options = {
     module: {
         rules: [
             {test: /\.css$/, loader: "style-loader!css-loader", exclude: /node_modules/},
-            {test: /\.png$/, loader: "file-loader?name=icon.png&context=./src/img/icon.png", exclude: /node_modules/}
+            {test: /\.png$/, loader: "file-loader?name=icon.png&context=./src/img/icon.png", exclude: /node_modules/},
+            {test: /\.jsx$/, loader: 'babel-loader', exclude: /node_modules/}
         ]
     },
     resolve: {

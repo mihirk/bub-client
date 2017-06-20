@@ -7,4 +7,4 @@ const getCurrentTabUrl = (cb) => chrome.tabs.query({active: true, currentWindow:
 const postURL = (url) => render(createElement(App, {url: url}, null), document.getElementById('app'));
 
 
-document.addEventListener('DOMContentLoaded', () => getCurrentTabUrl(postURL));
+render(createElement(App, null), document.getElementById('app'));

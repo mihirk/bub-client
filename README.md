@@ -1,6 +1,10 @@
 # BUB
 Add youtube songs to the cloud service you use with a click of a button.
 
+## Scenario
+You are listening to a song on youtube. You like the song. You would like it to be available offline on your mobile devices.
+You press button, song on your device. BOOM!!
+
 ## Spec
 The goal of this project is to make it possible and easy to get the music you listen on youtube available on your cloud service as audio files, so it is accessible to you on your multiple devices connected to the cloud. 
 
